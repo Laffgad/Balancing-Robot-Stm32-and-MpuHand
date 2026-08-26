@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=But1 Pin=U1-61
+Added Net: Name=But1
+Added Pin To Net: NetName=But2 Pin=U1-62
+Added Net: Name=But2
+Added Pin To Net: NetName=But3 Pin=U1-4
+Added Net: Name=But3

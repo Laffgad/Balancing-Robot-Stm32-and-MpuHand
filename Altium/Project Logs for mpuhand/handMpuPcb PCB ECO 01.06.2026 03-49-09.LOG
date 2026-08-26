@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=mpustm Member=
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C7-1
+Added Pin To Net: NetName=+3V3 Pin=FB1-2
+Added Member To Class: ClassName=mpuhand2 Member=Component J3 DS1021-2X4SF162-B
+Added Member To Class: ClassName=mpustm Member=Component JP1 HDR 1x4
+Added Member To Class: ClassName=mpuhand2 Member=Component JP3 HDR 1x4
