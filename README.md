@@ -30,7 +30,7 @@ The development of the self-balancing robotic platform followed a structured des
 ### 2.3. Physical Layout & Component Integration
 The internal layout of the chassis was organized in layers to manage weight distribution and electrical safety. DC motors and motor drivers (L298N) were placed at the lower section of the chassis to keep the center of gravity as low as possible. Additionally, the battery pack was integrated into the lower tier, serving both as the main power source and as heavy ballast to lower the center of mass, which makes it easier for the control system to keep the robot balanced. Intercard connections used custom wiring and precise soldering to route signals cleanly between tiers while preventing wire strain during movement.
 
-### 2.4. IMU Sensor Alignment & Placement
+### 2.4. IMU Sensor Placement
 A critical factor in keeping the robot balanced is the accurate placement of the sensor module. The 6-axis MPU6050 sensor (which combines a 3-axis accelerometer and a 3-axis gyroscope) was mounted precisely along the central Y-axis of the robot's symmetry plane. Placing the sensor centrally ensures that movement and acceleration do not create measuring errors, allowing the system to accurately calculate the tilt angles needed by the control loops.
 
 ---
@@ -38,7 +38,7 @@ A critical factor in keeping the robot balanced is the accurate placement of the
 ## 3. List of Components and Hardware Architecture
 This section outlines the primary electronic components integrated into the self-balancing robot, summarized in the table below:
 
-| Component | Specifications / Type |
+| Component |  Type |
 | :--- | :--- |
 | **STM32F030C8Tx Microcontroller** | ARM Cortex-M0 32-bit RISC core (LQFP48 package) |
 | **MPU6050 Inertial Measurement Unit** | 6-axis MotionTracking device (3-axis accelerometer & 3-axis gyroscope) |
