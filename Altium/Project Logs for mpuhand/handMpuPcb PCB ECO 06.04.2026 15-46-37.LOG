@@ -1,0 +1,193 @@
+Added Component: Designator=C1(FP-C0805C-DN-MFG)
+Added Component: Designator=C2(FP-C0805C-DN-MFG)
+Added Component: Designator=C3(FP-CL511-IPC_C)
+Added Component: Designator=C4(FP-CL511-IPC_C)
+Added Component: Designator=C5(FP-CL282-IPC_C)
+Added Component: Designator=C6(FP-CL165-IPC_C)
+Added Component: Designator=C7(FP-CL511-IPC_C)
+Added Component: Designator=C8(CAPC1050X55X23ML05T13)
+Added Component: Designator=C9(CAPC1050X55X23ML05T13)
+Added Component: Designator=C10(CAPC1050X55X23ML05T13)
+Added Component: Designator=C11(CAPC1050X55X23ML05T13)
+Added Component: Designator=C12(CAPC1050X55X23ML05T13)
+Added Component: Designator=C13(CAPC1050X55X23ML05T13)
+Added Component: Designator=C14(CAPC1050X55X23ML05T13)
+Added Component: Designator=C15(CAPC1050X55X23ML05T13)
+Added Component: Designator=C16(CAPC1050X55X23ML05T13)
+Added Component: Designator=C17(FP-CC0603-DA-MFG)
+Added Component: Designator=C18(FP-CC0402-MFG)
+Added Component: Designator=C19(CAPC1050X55X23ML05T13)
+Added Component: Designator=C20(CAPC1050X55X23ML05T13)
+Added Component: Designator=C21(FP-CL511-IPC_C)
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0805C
+Add component: Footprint Not Found 0805C
+Add component: Footprint Not Found 0603C
+Added Component: Designator=C26(CAPC1050X55X23ML05T13)
+Added Component: Designator=D1(FP-LTST-C191GKT-MFG)
+Add component: Footprint Not Found SMA
+Add component: Footprint Not Found SMA
+Add component: Footprint Not Found LED_0805
+Add component: Footprint Not Found LED_0805
+Added Component: Designator=FB1(FP-BLM18-0_15-t0_8-IPC_C)
+Added Component: Designator=FB2(FP-BLM18-0_15-t0_8-IPC_C)
+Added Component: Designator=IC1(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SI2301CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si2301cds-t1-ge3/vishay.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/68741/si2301cd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI2301CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "781-SI2301CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2301CDS-T1-GE3?qs=IRuQNBqMOcnWEzfGi6KYYw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOIC127P600X175-9N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nanjing Extension Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TP4056-42-ESOP8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOT95P190X145-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SII Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DW01A-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found GCT_USB4105GFA060
+Added Component: Designator=J2(PH2PWB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/2110250930_DEALON-PH-2PWB_C2905019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "DEALON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH-2PWB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDR Male1_4 2.54mm
+Added Component: Designator=Q1(SOT95P280X125-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.techpublic.com.tw/pdf/FS8205A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TECH PUBLIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FS8205A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X60X35ML10T20)
+Added Component: Designator=R2(RESC1608X55X25ML10T15)
+Added Component: Designator=R3(RESC2013X60X35ML10T20)
+Added Component: Designator=R4(FP-RC0402-0_4-MFG)
+Added Component: Designator=R5(FP-RC0402-0_4-MFG)
+Added Component: Designator=R6(RESC1005X40X25NL05T10)
+Added Component: Designator=R7(RESC1005X40X25NL05T10)
+Added Component: Designator=R8(RESC1005X40X25NL05T10)
+Add component: Footprint Not Found 0603R
+Add component: Footprint Not Found 0603R
+Added Component: Designator=R11(RESC1005X40X25ML05T10)
+Added Component: Designator=R12(RESC1005X40X25LL05T10)
+Added Component: Designator=S1(GSPTS004901)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/2780/pts526.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GSPTS004901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(CJS-1201B_MFG)
+Added Component: Designator=U1(FP-LQFP64-5W-MFG)
+Added Component: Designator=U2(FP-SOT25-IPC_A)
+Added Component: Designator=U3(IS-QFN-24_V)
+Added Component: Designator=Y1(FC4SDCBMF80T1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FC4SDCBMF8.0-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fc4sdcbmf8.0-t1/fox-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/datasheets/Fox/FC4SD.pdf?utm_source=foxonline.com&utm_medium=301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Fox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FC4SDCBMF8.0-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "559-FC4SDCBMF8.0-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Fox-Abracon/FC4SDCBMF8.0-T1?qs=MLItCLRbWsz1%2F7MlzIitsw%3D%3D"; VariantName = "[No Variations]"
+Added Net: Name=Ams
+Added Net: Name=Boot
+Added Net: Name=Button_1
+Added Net: Name=Button_2
+Added Net: Name=Button_3
+Added Net: Name=Button_4
+Added Net: Name=Button_5
+Added Pin To Net: NetName=CHRG Pin=IC2-7
+Added Net: Name=CHRG
+Added Net: Name=CMD
+Added Net: Name=filter
+Added Pin To Net: NetName=GNDBat Pin=IC3-6
+Added Pin To Net: NetName=GNDBat Pin=J2-2
+Added Pin To Net: NetName=GNDBat Pin=Q1-1
+Added Net: Name=GNDBat
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Net: Name=GND
+Added Net: Name=I2C_SCL
+Added Net: Name=I2C_SDA
+Added Net: Name=LED_1
+Added Net: Name=LED_2
+Added Net: Name=NetC15_2
+Added Net: Name=NetC17_1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC22_1 Pin=IC2-4
+Added Pin To Net: NetName=NetC22_1 Pin=IC2-8
+Added Net: Name=NetC22_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=Q1-6
+Added Net: Name=NetIC3_1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_3 Pin=Q1-4
+Added Net: Name=NetIC3_3
+Added Pin To Net: NetName=NetIC3_5 Pin=IC3-5
+Added Net: Name=NetIC3_5
+Added Net: Name=NetJ1_A5
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=OSCIN Pin=Y1-2
+Added Net: Name=OSCIN
+Added Net: Name=OSCOUT
+Added Pin To Net: NetName=Reset Pin=S1-3
+Added Pin To Net: NetName=Reset Pin=S1-4
+Added Net: Name=Reset
+Added Pin To Net: NetName=STDBY Pin=IC2-6
+Added Net: Name=STDBY
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Net: Name=U_RX
+Added Net: Name=U_TX
+Added Net: Name=USB_D_N
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=V_USB Pin=IC1-1
+Added Net: Name=V_USB
+Added Pin To Net: NetName=Vbat Pin=IC1-3
+Added Pin To Net: NetName=Vbat Pin=IC2-5
+Added Pin To Net: NetName=Vbat Pin=J2-1
+Added Net: Name=Vbat
+Added Pin To Net: NetName=Vout Pin=IC1-2
+Added Net: Name=Vout
+Added Class: Name=mpuhand2
+Added Class: Name=mpustm
+Added Differential Pair: Name=USB_D
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

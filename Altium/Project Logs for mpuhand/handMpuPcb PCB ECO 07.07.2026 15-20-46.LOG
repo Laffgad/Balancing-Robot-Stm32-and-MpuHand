@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=+3V3 Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+3V3 Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=+3V3 Pin=U3-13
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=I2C_SCL Pin=U3-23
+Removed Pin From Net: NetName=I2C_SDA Pin=U3-24
+Removed Member From Class: ClassName=mpuhand2 Member=C17
+Removed Member From Class: ClassName=mpuhand2 Member=C18
+Removed Member From Class: ClassName=mpuhand2 Member=U3
+Added Component: Designator=IC?(BMI270)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BMI270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bmi270/bosch-sensortec?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BOSCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BMI270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "262-BMI270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI270?qs=u16ybLDytRYIj%252BjQEee88A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=+3V3 Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=+3V3 Pin=IC?-8
+Added Pin To Net: NetName=+3V3 Pin=IC?-12
+Added Pin To Net: NetName=I2C_SCL Pin=IC?-13
+Added Pin To Net: NetName=I2C_SDA Pin=IC?-14
+Added Member To Class: ClassName=mpuhand2 Member=Component IC? BMI270

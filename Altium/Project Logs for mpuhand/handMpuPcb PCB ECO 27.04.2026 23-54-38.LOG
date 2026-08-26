@@ -1,0 +1,17 @@
+Added Component: Designator=J?(CONNFLY_DS1021-2X4SF162-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS1021-2X4SF162-B/Connfly/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS1021-2X4SF162-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS1021-2X4SF162-B/Connfly/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDR Male1_4 2.54mm
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Added Member To Class: ClassName=mpuhand2 Member=Component D? SS34
+Added Member To Class: ClassName=mpuhand2 Member=Component D? Led
+Added Member To Class: ClassName=mpuhand2 Member=Component D? SS34
+Added Member To Class: ClassName=mpuhand2 Member=Component J? DS1021-2X4SF162-B
+Add Class Member: Failed to add class member : Component JP1 HDR 1x4

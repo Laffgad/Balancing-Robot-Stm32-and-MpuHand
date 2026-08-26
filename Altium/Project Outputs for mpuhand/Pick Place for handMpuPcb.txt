@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\smartmcu\AltiumProject\mpuhand\Project Outputs for mpuhand\Pick Place for handMpuPcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10.07.26
+Time:       14:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                                                                 
+JP5        "HDR 1x4"         TopLayer    HDR_Male1_4_2.54mm        36.1000      28.5300      180      "CONN HEADER VERT 4POS 2.54MM"                                                                              
+C15        0.1uF             TopLayer    CAPC1050X55X23ML05T13     34.1000      31.9000      270      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+R4         4k7Ohm            TopLayer    FP-RC0402-0_4-MFG         29.9465      26.0536      315      ""                                                                                                          
+IC2        BMI270            TopLayer    BMI270                    30.0005      29.4000      180      "Integrated Circuit"                                                                                        
+IC1        AMS1117-3.3       TopLayer    SOT229P700X180-4N         6.6814       16.3945      90       "Integrated Circuit"                                                                                        
+JP4        "HDR 1x4"         TopLayer    HDR_Male1_4_2.54mm        7.6700       4.8000       270      "CONN HEADER VERT 4POS 2.54MM"                                                                              
+R9         10kOhm            BottomLayer RESC2013X60X35ML10T20     23.0000      39.5000      180      "Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"         
+R10        10kOhm            BottomLayer RESC2013X60X35ML10T20     19.3649      34.9422      180      "Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"         
+R8         10kOhm            BottomLayer RESC2013X60X35ML10T20     27.8516      39.5186      0        "Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"         
+C4         10uF              TopLayer    FP-CL21-IPC_B             2.8042       25.6031      270      "CL21 Series 0805 10uF 16V ±10% Tolerance X5R Multilayer Ceramic Chip Capacitor"                            
+C3         100nF             TopLayer    CAPC1050X55X23ML05T13     4.7000       25.5000      90       "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C2         22uF              TopLayer    CAPC2012X140N             5.8026       11.3013      180      Capacitor                                                                                                   
+C1         10uF              TopLayer    CAPC2012X140N             10.0000      11.0000      0        Capacitor                                                                                                   
+C27        100nF             BottomLayer CAPC1050X55X23ML05T13     22.1881      34.9134      180      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C25        100nF             TopLayer    CAPC1050X55X23ML05T13     24.7560      35.0866      180      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C24        100nF             TopLayer    CAPC1050X55X23ML05T13     27.5000      35.1000      0        "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+JP3        "HDR 1x4"         TopLayer    HDR_Male1_4_2.54mm        25.5200      37.2500      270      "CONN HEADER VERT 4POS 2.54MM"                                                                              
+JP2        "HDR 1x4"         TopLayer    HDR_Male1_4_2.54mm        28.6020      9.7020       135      "CONN HEADER VERT 4POS 2.54MM"                                                                              
+JP1        "HDR 1x4"         TopLayer    HDR_Male1_4_2.54mm        36.0251      15.9415      180      "CONN HEADER VERT 4POS 2.54MM"                                                                              
+C23        0.1uF             TopLayer    CAPC1050X55X23ML05T13     30.0679      8.3655       225      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+J3         DS1021-2X4SF162-B TopLayer    CONNFLY_DS1021-2X4SF162-B 7.7328       29.6871      90       "Pin header; pin strips; male; PIN: 8; straight; 2.54mm; THT; 2x4"                                          
+U1         STM32L476RGT6TR   TopLayer    FP-LQFP64-5W-MFG          23.4020      18.4157      315      "IC MCU 32BIT 1MB FLASH 64LQFP"                                                                             
+R14        220Ohm            TopLayer    RESC1608X55X25ML10T15     22.5000      29.5000      270      "General Purpose Chip Resistors, 220 Ohm, +/- 1%, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+R13        220Ohm            TopLayer    RESC1608X55X25ML10T15     24.4106      29.4988      270      "General Purpose Chip Resistors, 220 Ohm, +/- 1%, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+R5         4k7Ohm            BottomLayer FP-RC0402-0_4-MFG         27.9087      26.8104      225      ""                                                                                                          
+R3         10kOhm            BottomLayer RESC2013X60X35ML10T20     12.7500      28.0000      315      "Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"         
+R2         220Ohm            TopLayer    RESC1608X55X25ML10T15     5.5016       23.0029      0        "General Purpose Chip Resistors, 220 Ohm, +/- 1%, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+R1         10kOhm            BottomLayer RESC2013X60X35ML10T20     31.0000      22.4000      180      "Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"         
+FB1        120R              TopLayer    FP-BLM18-0_15-t0_8-IPC_C  14.7170      21.7220      315      "Chip Ferrite Bead, 0603, 5? @ 100MHz, 0.05?, 25%, 800mA"                                                   
+D7         Led               TopLayer    FP-LTST-C191GKT-MFG       22.5000      32.5000      270      "LED GREEN CLEAR CHIP SMD"                                                                                  
+D6         Led               TopLayer    FP-LTST-C191GKT-MFG       24.4500      32.5000      270      "LED GREEN CLEAR CHIP SMD"                                                                                  
+D1         Led               TopLayer    FP-LTST-C191GKT-MFG       2.7500       22.7500      0        "LED GREEN CLEAR CHIP SMD"                                                                                  
+C20        0.1uF             TopLayer    CAPC1050X55X23ML05T13     30.1974      31.2637      0        "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C19        0.1uF             TopLayer    CAPC1050X55X23ML05T13     27.8873      30.6223      270      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C14        0.1uF             TopLayer    CAPC1050X55X23ML05T13     38.0067      16.3204      90       "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C13        100nF             TopLayer    CAPC1050X55X23ML05T13     18.8710      24.7906      225      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C12        100nF             BottomLayer CAPC1050X55X23ML05T13     30.0248      16.7030      45       "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C11        100nF             BottomLayer CAPC1050X55X23ML05T13     21.7500      11.7500      315      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C10        100nF             BottomLayer CAPC1050X55X23ML05T13     24.8465      24.9035      135      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C9         100nF             BottomLayer CAPC1050X55X23ML05T13     17.0965      16.4035      315      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C8         100nF             BottomLayer CAPC1050X55X23ML05T13     22.2756      26.0549      315      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"           
+C7         1uF               TopLayer    FP-CL511-IPC_C            16.4789      22.8416      45       "Cap Ceramic 1uF 10V X5R ±10% SMD 0402 +85°C Paper T/R"                                                     
+C6         10nF              BottomLayer FP-CL165-IPC_C            17.6792      21.3165      45       "Cap Ceramic 10nF 50V X7R ±10% SMD 0402 +125°C Paper T/R"                                                   
+C5         4.7uF             BottomLayer FP-CL282-IPC_C            31.0313      15.7434      225      "Cap Ceramic 4.7uF 10V X5R ±20% SMD 0402 +85°C Paper T/R"                                                   
+S1         Button            TopLayer    GSPTS004901               15.3940      30.2720      315      "Switch (4-Pin Push)"                                                                                       

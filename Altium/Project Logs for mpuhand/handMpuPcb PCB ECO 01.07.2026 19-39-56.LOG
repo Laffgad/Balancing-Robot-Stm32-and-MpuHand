@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=mpuhand2 Member=JP4
+Change Component Footprint: Designator=C1 Old Footprint=FP-CC0805-0_85-MFG New Footprint=CAPC2012X140N
+Change Component Footprint: Designator=C2 Old Footprint=FP-CC0805-0_85-MFG New Footprint=CAPC2012X140N
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C18DE66F-CCF6-4054-9D20-B8113273F99E New ItemGUID= Old RevisionGUID=8A915897-F979-4076-AD4A-A3F7DABC4C2B New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=5FEFFE0B-01CF-45B5-A02C-6BFF2DF150C4 New ItemGUID= Old RevisionGUID=1A3960AF-FCFB-4E60-AF63-433C07384AD0 New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-CC0805-0_85-MFG"; UniqueID = "\HSRZUDNK" ("\HSRZUDNK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CL21A106KOQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a106koqnnne/samsung-electro-mechanics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/0289c6d4f30f89b64e7dd5b6a9ee99f0.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A106KOQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A106KOQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A106KOQNNNE?qs=349EhDEZ59qKIX0T0PKtPw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-CC0805-0_85-MFG"; UniqueID = "\NMSZWIMQ" ("\NMSZWIMQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CL21A226MQQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a226mqqnnne/samsung-electro-mechanics.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://product.samsungsem.com/mlcc/basic-search.do?partNumber=CL21A226MQQNNN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MQQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A226MQQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A226MQQNNNE?qs=349EhDEZ59oZnQF%252BO1HZ%252BQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=+3V3 Pin=IC1-2
+Added Pin To Net: NetName=Vbat Pin=IC1-3
+Added Pin To Net: NetName=Vbat Pin=JP4-4
+Added Member To Class: ClassName=mpustm Member=Component JP4 HDR 1x4

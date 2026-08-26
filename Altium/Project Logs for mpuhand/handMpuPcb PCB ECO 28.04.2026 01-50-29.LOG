@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=JP3-1
+Removed Pin From Net: NetName=But3 Pin=JP3-2
+Removed Pin From Net: NetName=But2 Pin=JP3-3
+Removed Pin From Net: NetName=But1 Pin=JP3-4
+Added Pin To Net: NetName=But3 Pin=JP3-1
+Added Pin To Net: NetName=But2 Pin=JP3-2
+Added Pin To Net: NetName=But1 Pin=JP3-3
+Added Pin To Net: NetName=GND Pin=JP3-4

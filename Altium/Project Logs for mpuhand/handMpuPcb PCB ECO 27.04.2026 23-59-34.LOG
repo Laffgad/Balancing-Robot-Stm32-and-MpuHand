@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Add component: Footprint Not Found HDR Male1_4 2.54mm
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD4_2
+Added Member To Class: ClassName=mpuhand2 Member=Component D2 SS34
+Added Member To Class: ClassName=mpuhand2 Member=Component D4 Led
+Added Member To Class: ClassName=mpuhand2 Member=Component D5 Led
+Add Class Member: Failed to add class member : Component JP1 HDR 1x4

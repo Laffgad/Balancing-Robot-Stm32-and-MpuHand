@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=mpuhand2 Member= 
+Removed Member From Class: ClassName=mpustm Member=JP3
+Change Component Designator: OldDesignator=  NewDesignator=JP1
+Change Component Designator: OldDesignator=  NewDesignator=JP2
+Added Member To Class: ClassName=mpustm Member=Component JP1 HDR 1x4
+Added Member To Class: ClassName=mpuhand2 Member=Component JP2 HDR 1x4
+Added Member To Class: ClassName=mpuhand2 Member=Component R10 10kOhm

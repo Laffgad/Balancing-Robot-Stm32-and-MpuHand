@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3V3 Pin=C6-1
+Removed Pin From Net: NetName=+3V3 Pin=C7-1
+Removed Pin From Net: NetName=+3V3 Pin=FB1-2
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-1
+Added Pin To Net: NetName=NetC6_1 Pin=FB1-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetJ1_SH1 Pin=J1-SH1
+Added Pin To Net: NetName=NetJ1_SH1 Pin=J1-SH2
+Added Pin To Net: NetName=NetJ1_SH1 Pin=J1-SH3
+Added Pin To Net: NetName=NetJ1_SH1 Pin=J1-SH4
+Added Net: Name=NetJ1_SH1
+Added Member To Class: ClassName=mpuhand2 Member=Component J3 DS1021-2X4SF162-B
+Added Member To Class: ClassName=mpustm Member=Component JP1 HDR 1x4
+Added Member To Class: ClassName=mpuhand2 Member=Component JP2 HDR 1x4
+Added Member To Class: ClassName=mpuhand2 Member=Component JP3 HDR 1x4

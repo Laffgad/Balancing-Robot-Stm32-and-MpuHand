@@ -1,0 +1,6 @@
+Change Footprint: Cannot match pads with new footprint in component :C2 Footprint:FP-CL21-IPC_A
+Change Footprint: Cannot match pads with new footprint in component :C1 Footprint:FP-CL21-IPC_B
+Change Footprint: Cannot match pads with new footprint in component :U2 Footprint:FP-AMS1117-IPC_C
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=U2-1

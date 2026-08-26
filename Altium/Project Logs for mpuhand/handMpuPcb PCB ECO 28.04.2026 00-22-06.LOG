@@ -1,0 +1,8 @@
+Add component: Footprint Not Found HDR Male1_4 2.54mm
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Change Net Name : Old Net Name=Ams New Net Name=+3V3
+Add Class Member: Failed to add class member : Component JP1 HDR 1x4
+Added Rule: Name=Schematic Supply Nets
