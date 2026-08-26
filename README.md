@@ -49,28 +49,5 @@ This section outlines the primary electronic components integrated into the self
 
 ---
 
-## 4. Control System Design & PID Implementation
-To achieve steady balance and smooth movement, the control system uses a cascaded PID architecture that runs in a strict real-time loop every $4\text{ ms}$ ($250\text{ Hz}$).
-
-### 4.1. Inner Loop: Tilt Angle Stabilization (Angle PID)
-The main goal of the inner loop is to keep the robot standing straight by fighting gravity and catching it before it falls. It compares the current filtered tilt angle (roll, derived from the MPU6050 via a complementary filter) against a dynamic target angle:
-$$\text{current\_target\_angle} = \text{pid\_roll.target\_angle} + \text{rxData.channel1}$$
-
-The system computes the proportional, integral, and derivative terms:
-$$u_{\text{angle}} = K_p e_t + K_i \int e_t dt + K_d \frac{de_t}{dt}$$
-
-To prevent integral saturation during prolonged tilts or external disturbances, anti-windup protection is applied to strictly clamp the integral term. The final output generates the baseline balance speed required to drive the wheels underneath the shifting center of gravity.
-
-### 4.2. Outer Loop: Motor Speed & Steering Control (Motor PID)
-While the inner loop keeps the robot upright, the outer loop controls individual wheel speeds and turning trajectories. Movement commands received from the gesture glove (`rxData.channel2` for turning offsets) are directly blended with the baseline balance output to compute individual wheel target speeds:
-$$\text{TargetLeft} = \text{BalanceOutput} + \text{SteeringOffset}$$
-$$\text{TargetRight} = \text{BalanceOutput} - \text{SteeringOffset}$$
-
-The system then compares these target speeds against actual velocities measured via hardware quadrature encoders (TIM1 and TIM3), computing individual motor PID corrections to adjust the final PWM duty cycles applied to each wheel.
-
-### 4.3. Safety Interlocks & Deadband Compensation
-To keep the robot safe and operational, the firmware includes critical safety checks. If the measured robot tilt angle exceeds $\pm 30^\circ$, an emergency cutoff protocol (`Motor_Emergency_Stop`) instantly zeroes out all PWM outputs, resets PID integral accumulators, and halts actuation to prevent physical damage. Additionally, to overcome static friction in the DC motors, a minimum threshold (`MIN_PWM = 1200`) is injected into non-zero PWM calculations before updating the TIM15 compare registers (capped at a maximum period of 2399).
-
-
 
 
